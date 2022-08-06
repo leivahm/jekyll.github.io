@@ -1,12 +1,13 @@
 ---
 layout: post
-author: Supun Kavinda
+author: Marcelo Leiva
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Encontrarás este post en tu directorio `_posts`. Adelante, edítalo y reconstruye el sitio para ver tus cambios. Puedes reconstruir el sitio de muchas maneras diferentes, pero la forma más común es ejecutar `jekyll serve`, que lanza un servidor web y auto-regenera tu sitio cuando se actualiza un archivo.
 
-Jekyll also offers powerful support for code snippets:
+Para añadir nuevos posts, simplemente añada un archivo en el directorio `_posts` que siga la convención `AAAA-MM-DD-nombre-del-post.ext` y que incluya el front matter necesario. Echa un vistazo a la fuente de este post para hacerte una idea de cómo funciona.
+
+Jekyll también ofrece un potente soporte para fragmentos de código:
 
 {% highlight ruby %}
 def print_hi(name)
@@ -16,9 +17,10 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+Consulta la [documentación de jekyll][documentacion-de-jekyll] para obtener más información sobre cómo sacar el máximo partido a Jekyll. Presenta todos los errores y peticiones de características en el repositorio [GitHub de Jekyll][github-de-jekyll]. Si tienes preguntas, puedes hacerlas en [Jekyll Talk][jekyll-talk].
 
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
+[documentacion-de-jekyll]: http://jekyllrb.com/docs/home
+[github-de-jekyll]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

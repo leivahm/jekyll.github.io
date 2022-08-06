@@ -1,10 +1,10 @@
 ---
-title: About
+title: Sobre Nosotros
 layout: page
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
+¡Hola! Este es el tema de Jekyll "Leaf" creado por <a rel="mí" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
 
-(Change this by editing `about.md` file)
+Puedes encontrar el recurso de este tema en <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
+
