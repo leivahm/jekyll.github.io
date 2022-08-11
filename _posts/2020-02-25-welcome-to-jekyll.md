@@ -24,3 +24,8 @@ Consulta la [documentación de jekyll][documentacion-de-jekyll] para obtener má
 [documentacion-de-jekyll]: http://jekyllrb.com/docs/home
 [github-de-jekyll]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+Tener en cuenta:
+* modalidad de enlaces con corchetes
+* estilo definido por llave y porcentaje
+* estilo por triple comilla inversa
